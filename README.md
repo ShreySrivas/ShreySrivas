@@ -58,6 +58,8 @@
 
 <h3 align="left">Projects:</h3>
 <p>Check out my projects here -> <a href="https://github.com/ShreySrivas?tab=repositories">My Repositories</a></p>
+<p>Check out my projects here -> <a href="https://github.com/ShreySrivas?tab=pinned">Pinned Projects</a></p>
+
 
 ---
 
