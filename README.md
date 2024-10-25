@@ -54,14 +54,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
 </p>
 
----
-
-<h3 align="left">Projects:</h3>
-<p>Check out my projects here -> <a href="https://github.com/ShreySrivas?tab=repositories">My Repositories</a></p>
-<p>Check out my projects here -> <a href="https://github.com/ShreySrivas?tab=pinned">Pinned Projects</a></p>
-
-
----
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreysrivas&show_icons=true&locale=en&layout=compact" alt="shreysrivas" /></p>
 
