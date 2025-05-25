@@ -11,13 +11,15 @@
 
 <h3 align="left">Experience:</h3>
 
-- **Junior Machine Learning Engineer** at [Omdena](https://www.omdena.com/) (08/2023 - 12/2023)  
-  - Led the EDA team to gain insights into maternal health factors.  
-  - Applied feature engineering, correlation analysis, and data visualization techniques.
+- **Software Engineer** at [University of Washington](https://www.washington.edu/) (11/2024 - 03/2025)  
+  - Designed and deployed a Retrieval-Augmented Generation (RAG) pipeline using Python and LangChain, generating 10K+ synthetic radiographic text samples, improving model accuracy by 12%.  
+  - Transformed MIMIC-CXR radiograph labels into rich textual descriptions through rigorous preprocessing and feature extraction.  
+  - Implemented automated data validation with a risk-aware RULE framework, increasing integrity compliance from 60% to 98%.  
 
-- **Data Science Intern** at [Ignitus](https://www.ignitus.com/) (09/2022 - 01/2023)  
-  - Developed a customer segmentation model for e-commerce using K-Means and RFM analysis.  
-  - Executed exploratory data analysis, preprocessing, and implemented algorithms like KNN and Random Forest.
+- **Junior Machine Learning Engineer** at [Omdena](https://www.omdena.com/) (08/2023 - 12/2023)  
+  - Led exploratory data analysis and feature engineering on a maternal health dataset (50K+ records), identifying 15 key predictors and boosting ROC-AUC from 0.76 to 0.84.  
+  - Built Tableau dashboards for visualizing cohort risks, cutting stakeholder report time by 70%.
+
 
 ---
 
