@@ -11,15 +11,19 @@
 
 <h3 align="left">Experience:</h3>
 
-- **Software Engineer** at [University of Washington](https://www.washington.edu/) (11/2024 - 03/2025)  
+- **Graduate Researcher** at [University of Washington](https://www.washington.edu/) (11/2024 - 03/2025)  
   - Designed and deployed a Retrieval-Augmented Generation (RAG) pipeline using Python and LangChain, generating 10K+ synthetic radiographic text samples, improving model accuracy by 12%.  
   - Transformed MIMIC-CXR radiograph labels into rich textual descriptions through rigorous preprocessing and feature extraction.  
-  - Implemented automated data validation with a risk-aware RULE framework, increasing integrity compliance from 60% to 98%.  
+  - Implemented automated data validation with a risk-aware RULE framework, increasing integrity compliance from 60% to 98%.
+  - Developed a FastAPI microservice to serve RAG inference endpoints, containerized and deployed on a remote server, reducing environment setup time by 70% and achieving average latency under 200 ms.  
 
-- **Junior Machine Learning Engineer** at [Omdena](https://www.omdena.com/) (08/2023 - 12/2023)  
-  - Led exploratory data analysis and feature engineering on a maternal health dataset (50K+ records), identifying 15 key predictors and boosting ROC-AUC from 0.76 to 0.84.  
-  - Built Tableau dashboards for visualizing cohort risks, cutting stakeholder report time by 70%.
+- **Software Engineer** at [Omdena](https://www.omdena.com/) (08/2023 - 12/2023)  
+  - Led exploratory data analysis and feature engineering on a maternal health dataset (50K+ records), identifying 15 key predictors and boosting ROC-AUC from 0.76 to 0.84; Built Tableau dashboards for visualizing cohort risks, cutting stakeholder report time by 70%.
+  - Implemented an interactive dashboard and web app modules using React.js and Chart.js; integrated with the Node.js API to visualize maternal health indicators, risk predictions, and prevention recommendations, reducing clinician decision time by 40%.
+  - Designed an Express.js REST API to serve a trained risk-prediction model, handling 1000+ daily inference requests with < 300 ms latency, and implemented structured logging of predictions to PostgreSQL for post-hoc analysis.
+  - Containerized backend services with Docker and deployed to AWS Elastic Beanstalk; set up Jenkins CI/CD to automate build, test, and rollout, cutting release cycles by 50% and maintaining 95% production uptime.  
 
+  
 
 ---
 
